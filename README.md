@@ -9,6 +9,7 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 
 ## Methods
 •	Data Cleaning: The dataset was cleaned and columns such as ID, Average score and Grade were added to the dataset.
+
 •	Data Visualization: Visualization was done by using Power BI to create dashboards and highlight on key metrics such as total average by parental level of education, race /ethnicity, type of lunch and test preparation. Gender distribution was also highlighted. 
 ## Tools
 1.	Microsoft Excel
