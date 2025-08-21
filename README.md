@@ -26,16 +26,6 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 •	Students who completed test preparation course performed better those who didn't complete test preparation course.
 
 •	 Students with parents that had higher level of education performed better that those with parents with lower level of education. 
-
-      o	Master's Degree: 74
-  
-      o	Bachelor's Degree: 72
-  
-      o	Associate Degree: 70
-  
-      o	Some College Degree: 68
-  
-      o	Some High School: 65
   
 •	Students belonging to Race/Ethnic Group E and Group D had the highest performance. Students in race/ethnic Group A was the ethnic group with the lowest performance.
 
