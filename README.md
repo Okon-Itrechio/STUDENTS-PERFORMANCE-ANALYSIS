@@ -1,7 +1,7 @@
 # STUDENTS-PERFORMANCE-ANALYSIS
 ## Project Overview
-This project aims to analyse students' performance data to using factors such as race/ethnicity,  
-parents' educational level, the quality of lunch received and test-preparation to gain insight into  
+This project aims to analyse student's performance using factors such as race/ethnicity,  
+parent's educational level, the quality of lunch received and test-preparation to gain insight into  
 their performance.
 
 ## Data Source
