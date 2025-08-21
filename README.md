@@ -1,31 +1,30 @@
 # STUDENTS-PERFORMANCE-ANALYSIS
 ## Project Overview
-This project aims to analyse students' performance data to gain insights into their performance 
-in relation to factors such as race/ethnicity, parents' educational level, the quality of lunch 
-received at school, and whether they completed any test-preparation courses before taking the actual tests.
+This project aims to analyse students' performance data to using factors such as race/ethnicity,  
+parents' educational level, the quality of lunch received and test-preparation to gain insight into  
+their performance.
 
 ## Data Source
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 
 ## Methods
-•	Data Cleaning and Preparation: The dataset was cleaned  and three more columns were included which are ID, Average score and Grade columns.
-•	Data Visualization: Power BI was used to create dashboards and visual reports to highlight key metrics such as total average, gender distribution by race/ethnicity, total average by race/ethnicity and lunch type, and so on.
-
+•	Data Cleaning: The dataset was cleaned and columns such as ID, Average score and Grade were added to the dataset.
+•	Data Visualization: Visualization was done by using Power BI to create dashboards and highlight on key metrics such as total average by parental level of education, race /ethnicity, type of lunch and test preparation. Gender distribution was also highlighted. 
 ## Tools
 1.	Microsoft Excel
 2.	SQL Server
 3.	Power BI
 
 ## Insights and Findings
-•	Gender balance: The dataset contained 482 male and 518 female students.
+•	The dataset contained 1000 students with 482 male and 518 female students.
 
-•	Performance Insights: The class average score is approximately 67.77. Male students averaged 65.84, while female students averaged 69.57.
+•	The class average score is approximately 67.77. Male students averaged 65.84, while female students averaged 69.57.
 
-•	Lunch Type: Students who had standard lunches averaged 70.84, while those who had free/reduced lunch averaged 62.20
+•	Students who had standard lunch performed better than while those who had free/reduced lunch.
 
-•	Test Preparedness Course: Those who completed a test preparedness course outperformed those who didn't (72.7 to 65.0 average scores).
+•	Students who completed test preparation course performed better those who didn't complete test preparation course.
 
-•	Parents' Level of Education: Students' average performances were proportional to the level of their parents' educational level. 
+•	 Students with parents that had higher level of education performed better that those with parents with lower level of education. 
 
       o	Master's Degree: 74
   
@@ -37,13 +36,15 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
   
       o	Some High School: 65
   
-      o	High School: 63
-  
-•	Race/Ethnicity: Group E (72.7 average score) and Group D (69.2 average score) were the highest performers. Group A, with an average of 63.0, was the ethnic group with the least performance.
+•	Students belonging to Race/Ethnic Group E and Group D had the highest performance. Students in race/ethnic Group A was the ethnic group with the lowest performance.
 
 ## Recommendations
-Students should be encouraged to complete a test-preparation course before they take the main test, as it guarantees better grades. The school can subsidies lunch for all students and serve everyone standard lunches; there is a direct relationship between the quality of food and students' performances.
+•	Students must ensure they complete test preparation course as this will enhance their performance. 
+
+•	Students to encourage their parents to upgrade their level of education as this will greatly influence their academic performance
+
+•	Students should encourage to eat standard lunch as quality of food affects their performance.
 
 ## Conclusion
-The analysis revealed that female students performed better than male students. However, male students performed better in Math (with an average score of 68.73), while female students performed better in Reading and Writing (with average scores of 72.61 and 72.47, respectively). Students who had standard lunch in school performed better (with an average score of 70.84) when compared to those who had free/reduced lunches, who averaged 62.20. Students who completed a test preparedness course outperformed those who didn't (72.7 to 65.0 average scores). Parents' level of education directly influenced students' performance.
+The analysis revealed that female students performed better than male students. However, male students performed better in Math while female students performed better in Reading and Writing. Students who had standard lunch in school performed better compared to those who had free/reduced lunch. Students who completed a test preparation course performed better than those who didn't had test preparation course. Finally, student parents with higher level of education greatly influenced their performance.
 
